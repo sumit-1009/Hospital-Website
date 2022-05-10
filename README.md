@@ -6,5 +6,5 @@ The webiste have responsive css style so that the website can be view in any dim
 
 ## Description
 It have diffrent sections like Home About Services Teams Gallery Testimonial Blog and Contacts.
-You can easily fetch all the sections by simply clicking on it
+You can easily fetch all the sections by simply clicking on it. 
 And you can book an appointment with just one click.
